@@ -6,7 +6,7 @@ Dieses Projekt ist ein interaktives Power BI Dashboard, das Personaldaten eines 
 
 ## 📸 Screenshot
 
-![](screenshot.png)
+![](1.png)
 
 ## 🛠️ Verwendete Tools
 

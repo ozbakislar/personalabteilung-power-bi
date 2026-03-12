@@ -6,7 +6,7 @@ Bu proje, kurgusal bir şirkete ait İK verilerini görselleştiren ve analiz ed
 
 ## 📸 Ekran Görüntüsü
 
-![](screenshot.png)
+![](1.png)
 
 ## 🛠️ Kullanılan Araçlar
 
